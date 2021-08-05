@@ -221,7 +221,7 @@ Tokens that will be utilized in the TONStarter DAO will not be circulated until 
 
 2) **Liquidity Token Distribution Schedule**
 
-The tokens allocated to liquidity are used to supply liquidity to DEX.  10% on the day of initial token distribution, remaining tokens distributed evenly over 12 months(20% of Total Supply)
+The tokens allocated to liquidity are used to supply liquidity to DEX.  5% on the day of initial token distribution, remaining tokens distributed evenly over 12 months(20% of Total Supply)
 
 3) **Marketing Token Distribution Schedule**
 
