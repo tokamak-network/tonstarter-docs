@@ -91,7 +91,7 @@ TONStarter provides TONStarter users and project teams with the following key fe
 - Each team can launch its project through Tokamak Network layer 2 as a service. In addition, each team can easily onboard its project on layer 2 operated by Tokamak Network.
 - Support for layer 2 accelerating will be provided by Tokamak Network, and each starter team can build their layer 2 based projects easily by only investing a minimum amount of resources.
 
-### Fair, Decentralized and Permisionless
+### Fair, Decentralized and Permissionless
 
 - Anyone around the world can freely join TONStarter as long as one has a Web3 Wallet.
 - Everyone will be given a fair and open chance to TONStarter investment opportunities.
